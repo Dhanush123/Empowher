@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/res/merged/debug/raw/outgoing.wav",
+        "source": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/exploded-aar/com.twilio/client-android/1.2.17/res/raw/outgoing.wav"
+    },
+    {
+        "merged": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/res/merged/debug/raw/outgoing.wav",
+        "source": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/exploded-aar/com.twilio/client-android/1.2.17/res/raw/outgoing.wav"
+    },
+    {
+        "merged": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/res/merged/debug/raw/disconnect.wav",
+        "source": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/exploded-aar/com.twilio/client-android/1.2.17/res/raw/disconnect.wav"
+    },
+    {
+        "merged": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/res/merged/debug/raw/disconnect.wav",
+        "source": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/exploded-aar/com.twilio/client-android/1.2.17/res/raw/disconnect.wav"
+    },
+    {
+        "merged": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/res/merged/debug/raw/incoming.wav",
+        "source": "/Users/chapatel/GitHub/Camera2Video/Application/build/intermediates/exploded-aar/com.twilio/client-android/1.2.17/res/raw/incoming.wav"
+    },
+    {
+        "merged": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/res/merged/debug/raw/incoming.wav",
+        "source": "/Users/chapatel/Downloads/Camera2Video/Application/build/intermediates/exploded-aar/com.twilio/client-android/1.2.17/res/raw/incoming.wav"
+    }
+]

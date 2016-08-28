@@ -1,0 +1,3 @@
+int raw disconnect 0x7f020000
+int raw incoming 0x7f020001
+int raw outgoing 0x7f020002
